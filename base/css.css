@@ -1,0 +1,26 @@
+body{
+	margin: 0px;
+	padding: 0px;
+	background-image: url(img/fondo.png);
+}
+
+header{
+	width: 960px;
+	height: 60px;
+	margin:0 auto;
+	background: #212121;
+	border-bottom-left-radius: 4px;
+	border-bottom-right-radius: 4px;
+}
+
+#logo{
+	width: auto;
+	height: auto;
+	float: left;
+	background: transparent;
+	color: #fff;
+	font-size: 22px;
+	font-family: 'Pacifico';
+	margin-top: 7px;
+	margin-left: 10px;
+}
